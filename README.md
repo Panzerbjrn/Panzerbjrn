@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ### Get in touch
 [![GHBadge]][GHProfile]
+[![GoodreadsBadge]][GoodreadsProfile]
 [![IGBadge]][IGProfile]
 [![LastFMBadge]][LastFMProfile]
 [![LinkedInBadge]][LinkedInProfile]
-[![TwitterBadge]][TwitterProfile]
 [![RedditBadge]][RedditProfile]
-[![GoodreadsBadge]][GoodreadsProfile]
 [![SpotifyBadge]][SpotifyProfile]
 [![StackBadge]][StackOverFlowProfile]
+[![TwitterBadge]][TwitterProfile]
 [![FBBadge]][FBProfile]
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
