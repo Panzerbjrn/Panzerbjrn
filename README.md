@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell DSC 101 Part 3: ConfigurationData (aka your NodeList)](https://itineranty.net/2017/02/15/powershell-dsc-101-part-3-configurationdata-aka-your-nodelist/)
+- [PowerShell DSC 101 Part 2: Configuration](https://itineranty.net/2017/02/14/powershell-dsc-101-part-2-configuration/)
+- [PowerShell DSC 101 Part 1: The Basic Concepts](https://itineranty.net/2017/02/13/powershell-dsc-101-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true" />
