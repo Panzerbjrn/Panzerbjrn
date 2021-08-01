@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
+### Get in touch
 [![alt text][GHBadge]][GHProfile]
 [![alt text][IGBadge]][IGProfile]
 [![alt text][LinkedInBadge]][LinkedInProfile]
 [![alt text][TwitterBadge]][TwitterProfile]
+[![alt text][FBBadge]][FBProfile]
+
+### Stuff I might know a bit about and/or use...
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -43,12 +47,29 @@ Here are some ideas to get you started:
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
 [IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[StackBadge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
+[FBBadge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
+[FBProfile]: https://www.facebook.com/panzerbjrn
 [GHProfile]: https://github.com/panzerbjrn
 [IGProfile]: https://instagram.com/Panzerbjrn
 [LinkedInProfile]: https://www.linkedin.com/in/lpetersson
-[TwitterProfile]: https://twitter.com/Panzerbjrn
-[FBProfile]: https://www.facebook.com/panzerbjrn
 [OKCProfile]: https://www.okcupid.com/profile/16622764975055422715
 [RedditProfile]: https://www.reddit.com/user/panzerbjrn
+[TwitterProfile]: https://twitter.com/Panzerbjrn
+
+[PythonBadge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[LUABadge]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+[PowershellBadge]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white
+[MDBadge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[MSBadge]: https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white
+[AWSBadge]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AzureBadge]: https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[AzFunctionsBadge]: https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white
+[AzDoBadge]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+[WindowsBadge]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[SpotifyBadge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+[RedditBadge]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+[OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=white
+[GoodreadCBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=white
