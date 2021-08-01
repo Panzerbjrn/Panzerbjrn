@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=red
 [RedditBadge]: https://img.shields.io/badge/Reddit-D51007?style=for-the-badge&logo=reddit&logoColor=black
-[SpotifyBadge]: https://img.shields.io/badge/Spotify-32A350?&style=for-the-badge&logo=spotify&logoColor=red
+[SpotifyBadge]: https://img.shields.io/badge/Spotify-100000?&style=for-the-badge&logo=spotify&logoColor=red
 [StackBadge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [TwitterBadge]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
 
