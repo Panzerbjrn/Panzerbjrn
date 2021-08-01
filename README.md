@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![RedditBadge]][RedditProfile]
 [![GoodreadsBadge]][GoodreadsProfile]
 [![SpotifyBadge]][SpotifyProfile]
+[![StackBadge]][StackOverFlowProfile]
 [![FBBadge]][FBProfile]
-
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
 ![PythonBadge] 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [RedditProfile]: https://www.reddit.com/user/panzerbjrn
 [SpotifyProfile]: https://open.spotify.com/user/1112679980?si=9d3730c21f2e4b1a
 [TwitterProfile]: https://twitter.com/Panzerbjrn
-
+[StackOverFlowProfile]: https://stackoverflow.com/users/4915226/lars-panzerbjrn
 [PythonBadge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [LUABadge]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 [PowershellBadge]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white
