@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 ## My GitHub details...
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
-[FBBadge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[FBBadge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=red
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
-[GoodreadsBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=white
+[GoodreadsBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=red
 [IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
 [LastFMBadge]: https://img.shields.io/badge/LastFM-D51007?style=for-the-badge&logo=lastfm&logoColor=white
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
