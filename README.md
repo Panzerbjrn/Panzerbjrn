@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true" />
