@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Get in touch
-[![alt text][GHBadge]][GHProfile]
+[[GHBadge]][GHProfile]
 [![alt text][IGBadge]][IGProfile]
 [![alt text][LinkedInBadge]][LinkedInProfile]
 [![alt text][TwitterBadge]][TwitterProfile]
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - [PowerShell DSC 101 Part 1: The Basic Concepts](https://itineranty.net/2017/02/13/powershell-dsc-101-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
+## My GitHub details...
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
