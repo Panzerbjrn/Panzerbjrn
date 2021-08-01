@@ -22,11 +22,21 @@ Here are some ideas to get you started:
 [![LinkedInBadge]][LinkedInProfile]
 [![TwitterBadge]][TwitterProfile]
 [![RedditBadge]][RedditProfile]
+[![GoodreadsBadge]][GoodreadsProfile]
+[![OKCBadge]][OKCProfile]
 [![FBBadge]][FBProfile]
 
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
 ![PythonBadge] 
+![LUABadge]
+![MDBadge]
+![MSBadge]
+![AWSBadge]
+![AzureBadge]
+![AzFunctionsBadge]
+![AzDoBadge]
+![WindowsBadge]
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -49,15 +59,18 @@ Here are some ideas to get you started:
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
+[GoodreadsBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=white
 [IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [StackBadge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
 [RedditBadge]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+[SpotifyBadge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [FBBadge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
 [GHProfile]: https://github.com/panzerbjrn
+[GoodreadsProfile]: http://goodreads.com/Panzerbjrn
 [IGProfile]: https://instagram.com/Panzerbjrn
 [LinkedInProfile]: https://www.linkedin.com/in/lpetersson
 [OKCProfile]: https://www.okcupid.com/profile/16622764975055422715
@@ -74,6 +87,4 @@ Here are some ideas to get you started:
 [AzFunctionsBadge]: https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white
 [AzDoBadge]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
 [WindowsBadge]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[SpotifyBadge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=white
-[GoodreadCBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=white
