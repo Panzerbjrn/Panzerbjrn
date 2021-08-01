@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
-![alt text][IGBadge]
-[![alt text][IGBadge]][Arbitrary case-insensitive reference text]
+[![alt text][IGBadge]][IGProfile]
+[![alt text][TwitterBadge]][TwitterProfile]
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -38,5 +38,15 @@ Here are some ideas to get you started:
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
+[GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
+
+[GHProfile]: https://github.com/panzerbjrn
+[IGProfile]: https://instagram.com/Panzerbjrn
+[LinkedInProfile]: https://www.linkedin.com/in/lpetersson
+[TwitterProfile]: https://twitter.com/Panzerbjrn
+[FBProfile]: https://www.facebook.com/panzerbjrn
+[OKCProfile]: https://www.okcupid.com/profile/16622764975055422715
+[RedditProfile]: https://www.reddit.com/user/panzerbjrn
