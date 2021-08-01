@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - [PowerShell DSC 101 Part 1: The Basic Concepts](https://itineranty.net/2017/02/13/powershell-dsc-101-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=tokyo&hide=stars" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
