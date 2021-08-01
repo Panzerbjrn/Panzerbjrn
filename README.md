@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 [OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=red
 [RedditBadge]: https://img.shields.io/badge/Reddit-30363D?style=for-the-badge&logo=reddit&logoColor=black
 [SpotifyBadge]: https://img.shields.io/badge/Spotify-100000?&style=for-the-badge&logo=spotify&logoColor=red
-[StackBadge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[StackBadge]: https://img.shields.io/badge/Stack_Overflow-30363D?style=for-the-badge&logo=stack-overflow&logoColor=white
 [TwitterBadge]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
