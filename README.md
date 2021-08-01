@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ![alt text][IGBadge]
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[![alt text][IGBadge]][Arbitrary case-insensitive reference text]
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
