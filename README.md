@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 ### Get in touch
-[[GHBadge]][GHProfile]
-[[IGBadge]][IGProfile]
-[[LinkedInBadge]][LinkedInProfile]
-[[TwitterBadge]][TwitterProfile]
-[[RedditBadge]][RedditProfile]
-[[FBBadge]][FBProfile]
+[![GHBadge]][GHProfile]
+[![IGBadge]][IGProfile]
+[![LinkedInBadge]][LinkedInProfile]
+[![TwitterBadge]][TwitterProfile]
+[![RedditBadge]][RedditProfile]
+[![FBBadge]][FBProfile]
 
 ### Stuff I might know a bit about and/or use...
 [PowerShellBadge] 
