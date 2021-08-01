@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg&bg_color=0c0f0f" />
-![twitter-green](https://img.shields.io/static/v1?logoColor=green&logo=twitter&label=%20&message=%20&color=rgba(0,0,0,0)&labelColor=rgba(0,0,0,0)&style=flat-square)
-
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
