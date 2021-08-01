@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 
 ### Get in touch
 [[GHBadge]][GHProfile]
-[![alt text][IGBadge]][IGProfile]
-[![alt text][LinkedInBadge]][LinkedInProfile]
-[![alt text][TwitterBadge]][TwitterProfile]
-[![alt text][FBBadge]][FBProfile]
+[[IGBadge]][IGProfile]
+[[LinkedInBadge]][LinkedInProfile]
+[[TwitterBadge]][TwitterProfile]
+[[RedditBadge]][RedditProfile]
+[[FBBadge]][FBProfile]
 
 ### Stuff I might know a bit about and/or use...
+[PowerShellBadge] 
+[PythonBadge] 
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -50,6 +53,7 @@ Here are some ideas to get you started:
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [StackBadge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
+[RedditBadge]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
 [FBBadge]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
@@ -71,6 +75,5 @@ Here are some ideas to get you started:
 [AzDoBadge]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
 [WindowsBadge]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [SpotifyBadge]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-[RedditBadge]: https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
 [OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=white
 [GoodreadCBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=white
