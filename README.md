@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red" />
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
