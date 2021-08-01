@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Conrade
 - ⚡ Fun fact: Having young children is really tiring...
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg&bg_color=0c0f0f" />
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
