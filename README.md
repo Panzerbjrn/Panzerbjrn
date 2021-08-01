@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![FBBadge]][FBProfile]
 
 ### Stuff I might know a bit about and/or use...
-[PowerShellBadge] 
-[PythonBadge] 
+![PowerShellBadge] 
+![PythonBadge] 
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
