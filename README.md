@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 ![alt text][IGBadge]
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -39,4 +38,5 @@ Here are some ideas to get you started:
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
-[IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "Logo Title Text 2"
+[IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
