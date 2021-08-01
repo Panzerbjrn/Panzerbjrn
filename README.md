@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
-![image](IGBadge)
+![image][IGBadge]
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
 
 ## What I am doing around the internet...
