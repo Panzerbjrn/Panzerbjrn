@@ -1,4 +1,4 @@
-### Ahoy! 👋
+# Ahoy! 👋
 
 <!--
 **Panzerbjrn/Panzerbjrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Conrade
 - ⚡ Fun fact: Having young children is really tiring...
 
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
-# StackOverflow Activity
+![image](IGBadge)
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
+
+## What I am doing around the internet...
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Lars Panzerbjrn for send email with only one line of robocopy summary](https://stackoverflow.com/questions/67336808/send-email-with-only-one-line-of-robocopy-summary/67337656#67337656)
 - [Why does Clear-Variable lower memory usage and reusing variables does not?](https://stackoverflow.com/questions/67234296/why-does-clear-variable-lower-memory-usage-and-reusing-variables-does-not)
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - [LUA command to move items to bank from bags in WoW Classic](https://stackoverflow.com/questions/62020451/lua-command-to-move-items-to-bank-from-bags-in-wow-classic)
 <!-- STACKOVERFLOW:END -->
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [PowerShell DSC 101 Part 3: ConfigurationData (aka your NodeList)](https://itineranty.net/2017/02/15/powershell-dsc-101-part-3-configurationdata-aka-your-nodelist/)
 - [PowerShell DSC 101 Part 2: Configuration](https://itineranty.net/2017/02/14/powershell-dsc-101-part-2-configuration/)
@@ -35,3 +37,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
+
+[IGBadge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black "IG"
