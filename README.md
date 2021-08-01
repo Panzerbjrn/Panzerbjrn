@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
+[![alt text][GHBadge]][GHProfile]
 [![alt text][IGBadge]][IGProfile]
+[![alt text][LinkedInBadge]][LinkedInProfile]
 [![alt text][TwitterBadge]][TwitterProfile]
 
 ## What I am doing around the internet...
