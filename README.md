@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=tokyo&hide=stars" />
