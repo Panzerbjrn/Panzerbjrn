@@ -61,7 +61,11 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub details...
+<!--
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
+-->
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats-eight-ashen.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
+
 
 [FBBadge]: https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=black
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
