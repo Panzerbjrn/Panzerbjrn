@@ -1,4 +1,4 @@
-# Ahoy! 👋
+# Ahoy fellow sailor on the good ship Github!
 
 <!--
 **Panzerbjrn/Panzerbjrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
