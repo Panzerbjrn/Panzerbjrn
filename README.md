@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Having young children is really tiring...
 
 
-[<img src="https://novatorem-teal-three.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/panzerbjrn)
+[<img src="https://novatorem-panzerbjrn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/panzerbjrn)
 <!-- [![Spotify](https://panzerbjrn.vercel.app/api/spotify)](https://open.spotify.com/user/panzerbjrn) -->
 
 ### Get in touch
