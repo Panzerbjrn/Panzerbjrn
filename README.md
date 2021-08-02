@@ -67,17 +67,17 @@ Here are some ideas to get you started:
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 
 
-[FBBadge]: https://img.shields.io/badge/Facebook-100000?style=flat&logo=facebook&logoColor=black
+[FBBadge]: https://img.shields.io/badge/Facebook-100000?style=flat&logo=facebook&logoColor=red
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=red
 [GoodreadsBadge]: https://img.shields.io/badge/Goodreads-100000?style=flat&logo=Goodreads&logoColor=red
-[IGBadge]: https://img.shields.io/badge/Instagram-100000?style=flat&logo=instagram&logoColor=black
-[LastFMBadge]: https://img.shields.io/badge/LastFM-100000?style=flat&logo=lastdotfm&logoColor=black
-[LinkedInBadge]: https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=black
+[IGBadge]: https://img.shields.io/badge/Instagram-100000?style=flat&logo=instagram&logoColor=red
+[LastFMBadge]: https://img.shields.io/badge/LastFM-100000?style=flat&logo=lastdotfm&logoColor=red
+[LinkedInBadge]: https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=red
 [OKCBadge]: https://img.shields.io/badge/OKC-100000?style=flat&logo=okcupid&logoColor=red
-[RedditBadge]: https://img.shields.io/badge/Reddit-100000?style=flat&logo=reddit&logoColor=black
+[RedditBadge]: https://img.shields.io/badge/Reddit-100000?style=flat&logo=reddit&logoColor=red
 [SpotifyBadge]: https://img.shields.io/badge/Spotify-100000?&style=flat&logo=spotify&logoColor=red
 [StackBadge]: https://img.shields.io/badge/Stack_Overflow-100000?style=flat&logo=stack-overflow&logoColor=white
-[TwitterBadge]: https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=black
+[TwitterBadge]: https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=red
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
 [GHProfile]: https://github.com/panzerbjrn
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 [PythonBadge]: https://img.shields.io/badge/Python-2C2D72?style=flat&logo=python&logoColor=white
 [LUABadge]: https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white
 [PowershellBadge]: https://img.shields.io/badge/PowerShell-666666?style=flat&logo=PowerShell&logoColor=white
-[MDBadge]: https://img.shields.io/badge/Markdownython-2C2D72?style=flat&logo=markdown&logoColor=white
+[MDBadge]: https://img.shields.io/badge/Markdown-2C2D72?style=flat&logo=markdown&logoColor=white
 [MSBadge]: https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white
 [AWSBadge]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white
 [AzureBadge]: https://img.shields.io/badge/microsoft%20azure-666666?style=flat&logo=microsoft-azure&logoColor=white
