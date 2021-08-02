@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Comrade
 - ⚡ Fun fact: Having young children is really tiring...
 
-[<img src="https://panzerbjrn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/panzerbjrn)
+[<img src="https://novatorem.panzerbjrn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/panzerbjrn)
 <!--
  [![Spotify](https://novatorem-panzerbjrn.vercel.app/api/spotify)](https://open.spotify.com/user/panzerbjrn) 
 -->
