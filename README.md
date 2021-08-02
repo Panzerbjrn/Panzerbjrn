@@ -90,10 +90,10 @@ Here are some ideas to get you started:
 [SpotifyProfile]: https://open.spotify.com/user/1112679980?si=9d3730c21f2e4b1a
 [TwitterProfile]: https://twitter.com/Panzerbjrn
 [StackOverFlowProfile]: https://stackoverflow.com/users/4915226/lars-panzerbjrn
-[PythonBadge]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+[PythonBadge]: https://img.shields.io/badge/Python-2C2D72?style=flat&logo=python&logoColor=white
 [LUABadge]: https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white
 [PowershellBadge]: https://img.shields.io/badge/PowerShell-666666?style=flat&logo=PowerShell&logoColor=white
-[MDBadge]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+[MDBadge]: https://img.shields.io/badge/Markdownython-2C2D72?style=flat&logo=markdown&logoColor=white
 [MSBadge]: https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white
 [AWSBadge]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white
 [AzureBadge]: https://img.shields.io/badge/microsoft%20azure-666666?style=flat&logo=microsoft-azure&logoColor=white
