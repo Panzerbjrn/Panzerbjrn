@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding a good butcher in Malága
 - 💬 Ask me about anything, maybe I know, maybe I don't...
 - 📫 How to reach me: Here or by shouting really loudly, maybe I'll hear you ;-)
-- 😄 Pronouns: Conrade
+- 😄 Pronouns: Comrade
 - ⚡ Fun fact: Having young children is really tiring...
 
+[![Spotify](https://panzerbjrn.vercel.app/api/spotify)](https://open.spotify.com/user/panzerbjrn)
 
 ### Get in touch
 [![GHBadge]][GHProfile]
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 [![StackBadge]][StackOverFlowProfile]
 [![TwitterBadge]][TwitterProfile]
 [![FBBadge]][FBProfile]
+
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
 ![PythonBadge] 
@@ -62,14 +64,14 @@ Here are some ideas to get you started:
 [FBBadge]: https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=black
 [GHBadge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red
 [GoodreadsBadge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=Goodreads&logoColor=red
-[IGBadge]: https://img.shields.io/badge/Instagram-30363D?style=for-the-badge&logo=instagram&logoColor=black "IG: Panzerbjrn"
+[IGBadge]: https://img.shields.io/badge/Instagram-30363D?style=for-the-badge&logo=instagram&logoColor=black
 [LastFMBadge]: https://img.shields.io/badge/LastFM-30363D?style=for-the-badge&logo=lastdotfm&logoColor=black
 [LinkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [OKCBadge]: https://img.shields.io/badge/OKC-30363D?style=for-the-badge&logo=okcupid&logoColor=red
 [RedditBadge]: https://img.shields.io/badge/Reddit-30363D?style=for-the-badge&logo=reddit&logoColor=black
 [SpotifyBadge]: https://img.shields.io/badge/Spotify-100000?&style=for-the-badge&logo=spotify&logoColor=red
 [StackBadge]: https://img.shields.io/badge/Stack_Overflow-30363D?style=for-the-badge&logo=stack-overflow&logoColor=white
-[TwitterBadge]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=black "Twitter: Panzerbjrn"
+[TwitterBadge]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=black
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
 [GHProfile]: https://github.com/panzerbjrn
