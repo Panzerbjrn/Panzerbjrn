@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on contributing more to the PowerShell community
-- 🌱 I’m currently learning Spanish & python
-- 👯 I’m looking to collaborate on PowerShell stuff
-- 🤔 I’m looking for help with finding a good butcher in Malága
-- 💬 Ask me about anything, maybe I know, maybe I don't...
+- 🔭 I’m currently working on: Contributing more to the PowerShell community
+- 🌱 I’m currently learning: Spanish & python
+- 👯 I’m looking to collaborate on: PowerShell stuff
+- 🤔 I’m looking for help with: Finding a good butcher in Malága
+- 💬 Ask me about: Anything, maybe I know, maybe I don't...
 - 📫 How to reach me: Here or by shouting really loudly, maybe I'll hear you ;-)
 - 😄 Pronouns: Comrade
 - ⚡ Fun fact: Having young children is really tiring...
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [<img src="https://novatorem-teal-three.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/panzerbjrn)
  [![Spotify](https://novatorem-panzerbjrn.vercel.app/api/spotify)](https://open.spotify.com/user/panzerbjrn) 
 -->
+
 ### Get in touch
 [![GHBadge]][GHProfile]
 [![GoodreadsBadge]][GoodreadsProfile]
@@ -33,15 +34,15 @@ Here are some ideas to get you started:
 
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
+![MSBadge]
+![AzureBadge]
+![AWSBadge]
+![AzDoBadge]
+![WindowsBadge]
+![AzFunctionsBadge]
 ![PythonBadge] 
 ![LUABadge]
 ![MDBadge]
-![MSBadge]
-![AWSBadge]
-![AzureBadge]
-![AzFunctionsBadge]
-![AzDoBadge]
-![WindowsBadge]
 
 ## What I am doing around the internet...
 ### StackOverflow Activity
@@ -76,7 +77,7 @@ Here are some ideas to get you started:
 [OKCBadge]: https://img.shields.io/badge/OKC-100000?style=flat&logo=okcupid&logoColor=red
 [RedditBadge]: https://img.shields.io/badge/Reddit-100000?style=flat&logo=reddit&logoColor=red
 [SpotifyBadge]: https://img.shields.io/badge/Spotify-100000?&style=flat&logo=spotify&logoColor=red
-[StackBadge]: https://img.shields.io/badge/Stack_Overflow-100000?style=flat&logo=stack-overflow&logoColor=white
+[StackBadge]: https://img.shields.io/badge/Stack_Overflow-100000?style=flat&logo=stack-overflow&logoColor=red
 [TwitterBadge]: https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=red
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
