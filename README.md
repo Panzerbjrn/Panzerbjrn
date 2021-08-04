@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![LastFMBadge]][LastFMProfile]
 [![LinkedInBadge]][LinkedInProfile]
 [![RedditBadge]][RedditProfile]
-[![OKCBadge]][RedditProfile]
+[![OKCBadge]][OKCProfile]
 [![SpotifyBadge]][SpotifyProfile]
 [![StackBadge]][StackOverFlowProfile]
 [![TwitterBadge]][TwitterProfile]
