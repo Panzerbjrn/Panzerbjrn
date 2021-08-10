@@ -64,18 +64,17 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub details...
-<!--
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats-eight-ashen.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
--->
-[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
-[Github Language Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
-<!--
--->
-## Testing
 ![My Github Stats][Github Stats Card]
 ![My Top Languages][Github Language Card]
+
+<!--
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
+-->
+
+
+[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
+[Github Language Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
+
 
 [FBBadge]: https://img.shields.io/badge/-100000?style=flat&logo=facebook&logoColor=red
 [GHBadge]: https://img.shields.io/badge/-100000?style=flat&logo=github&logoColor=red
@@ -88,6 +87,7 @@ Here are some ideas to get you started:
 [SpotifyBadge]: https://img.shields.io/badge/-100000?&style=flat&logo=spotify&logoColor=red
 [StackBadge]: https://img.shields.io/badge/-100000?style=flat&logo=stack-overflow&logoColor=red
 [TwitterBadge]: https://img.shields.io/badge/-100000?style=flat&logo=twitter&logoColor=red
+
 
 [FBProfile]: https://www.facebook.com/panzerbjrn
 [GHProfile]: https://github.com/panzerbjrn
