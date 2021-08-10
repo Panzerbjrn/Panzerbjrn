@@ -71,10 +71,21 @@ Here are some ideas to get you started:
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 -->
 ## Repos of note...
-[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=false&theme=dark)](https://github.com/Panzerbjrn/Recipes)
+[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark)](https://github.com/Panzerbjrn/Recipes)
+
+## Testing Repos of note...
+
+<a href="https://github.com/Panzerbjrn/Recipes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/Panzerbjrn/AzureDevOpsBoardHelper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=AzureDevOpsBoardHelper&show_owner=true&hide_border=true&theme=dark" />
+</a>
 
 
-[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=false&theme=dark&hide=stars&bg_color=0c0f0f
+
+<!-- Links & MD References -->
+[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f&count_private=true
 [Github Language Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
 
 
