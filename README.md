@@ -68,14 +68,14 @@ Here are some ideas to get you started:
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-eight-ashen.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
 -->
-[My Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
+[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
+[Github Language Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
 <!--
 -->
 ## Testing
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
-[![My Github Stats Card]][My Github Stats](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
+![My Github Stats][Github Stats Card]
+![My Top Languages][Github Language Card]
+![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 
 [FBBadge]: https://img.shields.io/badge/-100000?style=flat&logo=facebook&logoColor=red
 [GHBadge]: https://img.shields.io/badge/-100000?style=flat&logo=github&logoColor=red
