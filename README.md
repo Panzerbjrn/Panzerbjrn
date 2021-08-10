@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 <!--
 -->
 ## Testing
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
 
 [FBBadge]: https://img.shields.io/badge/-100000?style=flat&logo=facebook&logoColor=red
 [GHBadge]: https://img.shields.io/badge/-100000?style=flat&logo=github&logoColor=red
