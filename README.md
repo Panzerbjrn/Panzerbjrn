@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 -->
 ## Repos of note...
-[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true)](https://github.com/Panzerbjrn/Recipes)
+[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=false&theme=dark)](https://github.com/Panzerbjrn/Recipes)
 
 
-[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
+[Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=false&theme=dark&hide=stars&bg_color=0c0f0f
 [Github Language Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
 
 
