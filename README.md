@@ -63,25 +63,41 @@ Here are some ideas to get you started:
 - [PowerShell DSC 101 Part 1: The Basic Concepts](https://itineranty.net/2017/02/13/powershell-dsc-101-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
-## My GitHub details...
+## My GitHub stats...
 ![My Github Stats][Github Stats Card]
 ![My Top Languages][Github Language Card]
 
 <!--
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
--->
 ## Repos of note...
 [![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark)](https://github.com/Panzerbjrn/Recipes)
+-->
 
-## Testing Repos of note...
+## Published PowerShell repos...
 
-<a href="https://github.com/Panzerbjrn/Recipes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark" />
-</a>
 <a href="https://github.com/Panzerbjrn/AzureDevOpsBoardHelper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=AzureDevOpsBoardHelper&show_owner=true&hide_border=true&theme=dark" />
 </a>
+<a href="https://github.com/Panzerbjrn/vROpsRestAPIHelper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=vROpsRestAPIHelper&show_owner=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/Panzerbjrn/TestingModule">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=TestingModule&show_owner=true&hide_border=true&theme=dark" />
+</a>
 
+## Other repos of note...
+<a href="https://github.com/Panzerbjrn/Recipes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/Panzerbjrn/ThoughtForTheDay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=ThoughtForTheDay&show_owner=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/Panzerbjrn/AzureRestApiHelper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=AzureRestApiHelper&show_owner=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/Panzerbjrn/AD.PowerShell.Tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=AD.PowerShell.Tools&show_owner=true&hide_border=true&theme=dark" />
+</a>
 
 
 <!-- Links & MD References -->
