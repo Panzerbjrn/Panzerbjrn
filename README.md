@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![StackBadge]][StackOverFlowProfile]
 [![TwitterBadge]][TwitterProfile]
 [![FBBadge]][FBProfile]
-[![OKC](https://img.shields.io/badge/-100000?style=flat&logo=okcupid&logoColor=red)](https://www.okcupid.com/profile/16622764975055422715)
+<!-- [![OKC](https://img.shields.io/badge/-100000?style=flat&logo=okcupid&logoColor=red)](https://www.okcupid.com/profile/16622764975055422715) -->
 
 ### Stuff I might know a bit about and/or use...
 ![PowerShellBadge] 
@@ -66,13 +66,14 @@ Here are some ideas to get you started:
 ## My GitHub details...
 <!--
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats-eight-ashen.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
--->
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f" />
-
+-->
+[My Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
 <!--
 -->
 ## Testing
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats Card]][My Github Stats](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)](https://github.com/anuraghazra/github-readme-stats)
 
