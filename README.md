@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 <!--
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 -->
+## Repos of note...
+[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes)](https://github.com/Panzerbjrn/Recipes)
 
 
 [Github Stats Card]: https://github-readme-stats.vercel.app/api?username=panzerbjrn&show_icons=true&hide_border=true&theme=dark&hide=stars&bg_color=0c0f0f
