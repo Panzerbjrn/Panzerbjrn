@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ![My Github Stats][Github Stats Card]
 ![My Top Languages][Github Language Card]
 
+<!--
 [![wakatime Test](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 [![wakatime Test](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
-<!--
 ## Repos of note...
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
 [![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark)](https://github.com/Panzerbjrn/Recipes)
