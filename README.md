@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 [![wakatime Test](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 ## Repos of note...
 ![My wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panzerbjrn)]
-[![Recipe Card](https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=Recipes&show_owner=true&hide_border=true&theme=dark)](https://github.com/Panzerbjrn/Recipes)
 -->
 
 ## Published PowerShell repos...
@@ -141,3 +140,4 @@ Here are some ideas to get you started:
 [AzFunctionsBadge]: https://img.shields.io/badge/Azure_Functions-666666?style=flat&logo=azure-functions&logoColor=white
 [AzDoBadge]: https://img.shields.io/badge/Azure_DevOps-666666?style=flat&logo=azure-devops&logoColor=white
 [WindowsBadge]: https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white
+
