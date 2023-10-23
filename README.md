@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 [![OKCBadge]][OKCProfile]
 [![TwitterBadge]][TwitterProfile]
 [![FBBadge]][FBProfile]
-[![OKC](https://img.shields.io/badge/-100000?style=flat&logo=okcupid&logoColor=red)](https://www.okcupid.com/profile/16622764975055422715)
 <!--
 -->
 
