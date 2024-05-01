@@ -80,9 +80,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Panzerbjrn/AzureDevOpsBoardHelper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=AzureDevOpsBoardHelper&show_owner=true&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/Panzerbjrn/vROpsRestAPIHelper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=vROpsRestAPIHelper&show_owner=true&hide_border=true&theme=dark" />
-</a>
 <a href="https://github.com/Panzerbjrn/TestingModule">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panzerbjrn&repo=TestingModule&show_owner=true&hide_border=true&theme=dark" />
 </a>
